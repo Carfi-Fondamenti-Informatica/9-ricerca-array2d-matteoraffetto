@@ -1,5 +1,5 @@
 #include <iostream>
-#include "libb.h"
+#include "lib.h"
 using namespace std;
 int main() {
    int pos;
